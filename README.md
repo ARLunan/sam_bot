@@ -14,14 +14,21 @@ For initial installation on a **Ubuntu 22.04 Desktop/ros2 Humble** Workstation, 
 **.gitignore:** This file contents are listed below, is saved into the **Local** Desktop **Repository root directory**. Note that the .gitignore file itself is NOT tracked and does not appear in your **Remote** github.com Repository. https://www.w3schools.com/git/git_ignore.asp
 
 #ROS
+
 devel/
+
 log/
+
 build/
+
 install/
 
 #VSCode
+
 .vscode/
+
 **/.vscode/
 
 #.gitignore
+
 /.gitignore
